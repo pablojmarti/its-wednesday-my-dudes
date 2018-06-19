@@ -5,7 +5,7 @@ Simple Slack notifier to remind everyone that *it's wednesday my dudes*
 - curl
 
 ## Getting Started
-To sucessfully use this script you must first copy the `.env.example` file to `.env` 
+To successfully use this script you must first copy the `.env.example` file to `.env` 
 ```
 cp .env.example .env
 ```
