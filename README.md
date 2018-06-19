@@ -1,6 +1,9 @@
 # its wednesday my dudes
 Simple Slack notifier to remind everyone that *it's wednesday my dudes*
 
+## Requirements
+- curl
+
 ## Getting Started
 To sucessfully use this script you must first copy the `.env.example` file to `.env` 
 ```
